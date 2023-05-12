@@ -7,4 +7,4 @@
 Olá meu caro, fico feliz que esteja por aqui. Neste repositório eu coloco todos os meus algoritmos que estou utilizando na graduação, tem muita coisa boa por ai, aproveite.
 
 ## EN - US
-Hello there, i'm happy to you be there. In this repository i put all algoritms i've made in university. Have some good algorithms, enjoy.
+Hello there, I'm happy that you're here. In this repository, I've included all the algorithms I created while in university. There are some great algorithms here, so I hope you enjoy them.
